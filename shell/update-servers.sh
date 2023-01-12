@@ -1,0 +1,1 @@
+./update.sh udagramServersStack ../servers.yml ../servers-params.json
